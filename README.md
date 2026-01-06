@@ -263,9 +263,3 @@ Bioinformatics Research Assistant, Brigham & Women’s Hospital
 🔗 LinkedIn: *www.linkedin.com/in/varun-u-gowda*
 
 ---
-
-If you want, next I can:
-
-* Create a **GitHub project description + tags**
-* Write a **LinkedIn post** announcing this project
-* Help version this as **v2.0 (Validated Spatial Annotation)**
