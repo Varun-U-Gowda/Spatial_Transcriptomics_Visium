@@ -1,0 +1,22 @@
+# Output directories
+results*/
+output*/
+figures*/
+
+# Large data files
+*.h5
+*.h5ad
+*.loom
+*.mtx
+*.csv
+*.png
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Conda / environments
+.env/
+.conda/
