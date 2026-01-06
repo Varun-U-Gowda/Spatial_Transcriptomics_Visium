@@ -80,10 +80,10 @@ These components will be added in a future release after biological verification
 
 ```
 .
-├── SP_claude.py
+├── spatial_preprocessing_and_annotation.py
 │   └─ Core preprocessing, clustering, annotation, and spatial analysis logic
 │
-├── spatial_plots.py
+├── spatial_validation_and_visualization.py
 │   └─ Helper utilities for spatial visualization, module scoring,
 │      Moran’s I, neighborhood enrichment, and summary exports
 │
