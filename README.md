@@ -31,6 +31,14 @@ The pipeline emphasizes **biological validation**, **transparent assumptions**, 
 * **Preparation:** Fresh frozen tissue, cryosectioned following Visium Spatial Protocols
 * **Data Type:** Spot-level spatial gene expression with histology-aligned coordinates
 
+**Data access:**
+- 10x Genomics Visium Spatial Gene Expression datasets  
+- https://www.10xgenomics.com/datasets/human-breast-cancer-visium-fresh-frozen-whole-transcriptome-1-standard
+
+Due to file size constraints, raw Visium output files are not included in this repository.
+Users should download the dataset directly from 10x Genomics and provide the path to the
+expression matrix when running the pipeline.
+
 ---
 
 ## Project Goals
